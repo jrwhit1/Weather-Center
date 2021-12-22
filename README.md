@@ -12,3 +12,4 @@ Libraries needed:
 *  requests
 *  os
 *  json
+![Weather.png](https://github.com/jrwhit1/Weather-Center/blob/main/Weather.PNG)
